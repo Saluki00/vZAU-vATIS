@@ -2,10 +2,10 @@
   "name": "Chicago ARTCC",
   "id": "8f4678d2-8134-4bb5-b16d-94cf7f5d6072",
   "updateUrl": "https://github.com/Saluki00/vZAU-vATIS/blob/main/vATIS%20Profile%20-%20Chicago%20ARTCC.json",
-  "updateSerial": 2024121601,
+  "updateSerial": 1970010100,
   "stations": [
     {
-      "id": "f1bdb693-288b-46fa-ae23-1ea37f97dc4f",
+      "id": "54a1436d-1fc0-430a-b9f8-8d05d663e298",
       "ordinal": 0,
       "identifier": "KPWK",
       "name": "Chicago Executive",
@@ -2075,7 +2075,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "0e76a3bb-3761-4b3a-9860-141f350b242f",
+      "id": "a82b3556-f954-4d1a-9da6-2411f5f9be25",
       "ordinal": 0,
       "identifier": "KMKE",
       "name": "Milwaukee",
@@ -25307,7 +25307,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "174e5c8f-6f37-4d73-b5d8-1c554859071e",
+      "id": "b7b27d89-4cd2-4bc7-8385-4e4758f78931",
       "ordinal": 0,
       "identifier": "KARR",
       "name": "Aurora",
@@ -27441,7 +27441,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "cb21fa05-561c-4872-a12b-5cc8c5aee59f",
+      "id": "2d5583aa-06df-4e7f-8fc0-5fb76325ad34",
       "ordinal": 0,
       "identifier": "KDPA",
       "name": "DuPage",
@@ -29516,7 +29516,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "e56ca9c9-b613-4e88-9c93-171799661f3f",
+      "id": "5fd266ae-7b04-4604-8984-75670dc21288",
       "ordinal": 0,
       "identifier": "KGYY",
       "name": "Gary",
@@ -31618,7 +31618,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "c794593f-0413-4d2e-b621-4e52cc1df097",
+      "id": "d9bf2185-b265-4fec-9711-6946d3ba0f6d",
       "ordinal": 0,
       "identifier": "KOSH",
       "name": "Oshkosh",
@@ -33720,7 +33720,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "1b0bf68d-608a-46ea-b680-cebfdef837d1",
+      "id": "28b6967c-8b03-4c5b-98ab-76b37b3002e5",
       "ordinal": 0,
       "identifier": "KENW",
       "name": "Kenosha",
@@ -35827,7 +35827,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "35c7105d-3050-4f13-9067-c705932832f0",
+      "id": "d5744cf2-7671-4097-bdd4-2085b9f22fde",
       "ordinal": 0,
       "identifier": "KUES",
       "name": "Waukesha",
@@ -37870,7 +37870,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "c0223680-f06b-428a-84f2-0a9a52da4e37",
+      "id": "bda1bbd1-670e-4841-8ac8-91e1da57bbbb",
       "ordinal": 0,
       "identifier": "KUGN",
       "name": "Waukegan",
@@ -44090,7 +44090,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "5cc8bbee-983c-4574-a491-f33a993be457",
+      "id": "625bcd11-a24c-4a79-93cb-2be6450ed5a8",
       "ordinal": 0,
       "identifier": "KLOT",
       "name": "Lewis University",
@@ -48294,7 +48294,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "a77a0d37-99e9-40ea-a1d6-9faadb3b1d6e",
+      "id": "adf899ca-29c0-4da6-a464-7d52ddbb5bb3",
       "ordinal": 0,
       "identifier": "KMDW",
       "name": "Midway",
@@ -50493,7 +50493,7 @@
       ]
     },
     {
-      "id": "581a106d-38d1-4081-b6f1-25bb0912fc4d",
+      "id": "21fea01f-e7ad-4a20-8ed4-d8ac8360c074",
       "ordinal": 0,
       "identifier": "KMWC",
       "name": "Timmerman",
@@ -52579,7 +52579,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "e26e1ed2-9a57-4517-9071-70d69d1817de",
+      "id": "5a5bce70-dcf9-4c98-9686-ed8f2010da89",
       "ordinal": 0,
       "identifier": "KORD",
       "name": "OHare ",
