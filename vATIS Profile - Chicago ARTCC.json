@@ -1,7 +1,7 @@
 {
   "name": "Chicago ARTCC",
   "id": "8f4678d2-8134-4bb5-b16d-94cf7f5d6072",
-  "updateUrl": "https://zauartcc.sfo3.cdn.digitaloceanspaces.com/production/downloads/1752330871202-vATIS%20Profile%20-%20Chicago%20ARTCC.json",
+  "updateUrl": "https://github.com/Saluki00/vZAU-vATIS/blob/main/vATIS%20Profile%20-%20Chicago%20ARTCC.json",
   "updateSerial": 2024121601,
   "stations": [
     {

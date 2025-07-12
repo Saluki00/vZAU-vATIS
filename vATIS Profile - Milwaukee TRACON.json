@@ -1,6 +1,9 @@
 {
   "name": "Milwaukee TRACON",
   "id": "b4eb1a20-9eb3-4539-8013-218123c9c929",
+  "updateUrl": "https://github.com/Saluki00/vZAU-vATIS/blob/main/vATIS%20Profile%20-%20Milwaukee%20TRACON.json",
+  "updateSerial": 2024121601,
+
   "stations": [
     {
       "id": "411b3079-34d3-4dbf-a179-2c9b5e6ba2dd",

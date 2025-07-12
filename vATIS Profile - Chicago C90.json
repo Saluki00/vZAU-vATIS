@@ -1,6 +1,8 @@
 {
   "name": "Chicago C90",
   "id": "d5f9f026-88f8-4457-bf54-a4b411ec7966",
+  "updateUrl": "https://github.com/Saluki00/vZAU-vATIS/blob/main/vATIS%20Profile%20-%20Chicago%20C90.json",
+  "updateSerial": 2024121601,
   "stations": [
     {
       "id": "c8158f8f-5905-456d-9072-2b431e033203",
