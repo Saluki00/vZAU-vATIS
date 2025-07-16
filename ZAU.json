@@ -1,6 +1,6 @@
 {
   "name": "Chicago ARTCC",
-  "id": "8f4678d2-8134-4bb5-b16d-94cf7f5d6072",
+  "id": "3740d783-516f-40b9-a09c-3ce72934a242",
   "updateUrl": "https://raw.githubusercontent.com/Saluki00/vZAU-vATIS/refs/heads/main/ZAU.json",
   "updateSerial": 1970010100,
   "stations": [
@@ -2018,7 +2018,7 @@
         {
           "id": "34b3df25-c3d7-4e06-bc56-1a876da533cd",
           "name": "IFR 010-040",
-          "airportConditions": "ARRS EXPECT VECTORS ILS APCH RWY 16 CIRCLE TO LAND RWY 34. LNDG AND DEPTG INTERSECTING RWYS 30 AND RWY 34.",
+          "airportConditions": "ARRS EXPECT VECTORS ILS APCH RWY 16 CIRCLE TO LAND RWY 34. LNDG AND DEPTG INTERSECTING RWYS 30 AND RWY 34. ENSURE PROPER RUNWAY ALIGNMENT WHEN CIRCLING EAST.",
           "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS AND ALT ASSIGNMENTS. VFR DEPARTURES INDICATE TYPE, FIELD LOCATION, AND REQUESTED HEADING. BIRD ADVISORIES IN EFFECT. VFR DEPARTURES BE AWARE OF THE OHARE BRAVO AIRSPACE SOUTH OF THE FIELD.",
           "template": "CHICAGO EXECUTIVE AIRPORT ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -2050,7 +2050,7 @@
         {
           "id": "3fad0c64-3f34-4878-a9ae-a6f48abd71b3",
           "name": "IFR 260-360",
-          "airportConditions": "ARRS EXPECT VECTORS ILS APCH RWY 16 CIRCLE TO LAND RWY 34. LNDG AND DEPTG INTERSECTING RWYS 30 AND RWY 34.",
+          "airportConditions": "ARRS EXPECT VECTORS ILS APCH RWY 16 CIRCLE TO LAND RWY 34. LNDG AND DEPTG INTERSECTING RWYS 30 AND RWY 34. ENSURE PROPER RUNWAY ALIGNMENT WHEN CIRCLING EAST.",
           "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS AND ALT ASSIGNMENTS. VFR DEPARTURES INDICATE TYPE, FIELD LOCATION, AND REQUESTED HEADING. BIRD ADVISORIES IN EFFECT. VFR DEPARTURES BE AWARE OF THE OHARE BRAVO AIRSPACE SOUTH OF THE FIELD.",
           "template": "CHICAGO EXECUTIVE AIRPORT ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -2071,7 +2071,13 @@
           "voice": "R NAV"
         }
       ],
-      "airportConditionDefinitions": [],
+      "airportConditionDefinitions": [
+        {
+          "text": "LAHSO ARE IN EFCT, ELIGIBLE AIRCRAFT MAY BE ASKED TO HOLD SHORT OF RUNWAY 12/30, *3,600 FT AVBL.",
+          "ordinal": 1,
+          "enabled": false
+        }
+      ],
       "notamDefinitions": []
     },
     {
